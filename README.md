@@ -1,4 +1,4 @@
-# code-exporter - easy code export
+# code-exporter - easy code export for LLM pasting
 
 # File Merger 📁
 
